@@ -10,3 +10,4 @@ In order to use Git, your computer must have it available. If you already have G
 1- Install as a package
 2- Install via another installer
 3- Download and compile the source code.
+
