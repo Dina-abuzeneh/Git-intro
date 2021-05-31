@@ -14,7 +14,7 @@ In order to use Git, your computer must have it available. If you already have G
 3- Download and compile the source code.
 
 
-###So, what is Git?
+### So, what is Git?
 
 **napshots**
 
@@ -42,7 +42,7 @@ In order to use Git, your computer must have it available. If you already have G
 
 **Modified**
 
--File has been changed but not committed to the database
+- File has been changed but not committed to the database
 
 
 :relaxed:
